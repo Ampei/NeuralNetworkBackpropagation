@@ -1,0 +1,5 @@
+Neural network with backpropagation training xor example.
+This framework supports only one hidden layer and the activation function is sigmoid.
+
+In this example there are two inputs neurons, four neurons in hidden layers and one neuron in output layer.
+The weights are initialized randomly.
